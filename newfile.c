@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <iostream>
+
 int main ()  {
   int jardiance = 44;
   printf(jardiance);
